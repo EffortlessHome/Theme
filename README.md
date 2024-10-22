@@ -1,4 +1,3 @@
-# Theme
 # EffortlessHome Themes
 
 Welcome to the EffortlessHome Themes repository! This repository contains a collection of themes designed to enhance the visual experience of your Home Assistant dashboard, aligning with EffortlessHome’s clean, modern, and user-friendly design philosophy.
